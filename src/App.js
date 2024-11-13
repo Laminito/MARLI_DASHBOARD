@@ -3,6 +3,7 @@ import { Outlet } from 'react-router-dom';
 import LoadingAllSite from './components/LoadingAllSite/LoadingAllSite';
 import ScrollToTop from './components/ScrollToTop/ScrollToTop';
 import LeftMenu from './components/LeftMenu/LeftMenu';
+import React from 'react';
 
 function App() {
   useEffect(()=>{

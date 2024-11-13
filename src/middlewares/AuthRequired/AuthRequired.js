@@ -1,6 +1,8 @@
 import { useNavigate } from 'react-router-dom'
 import Cookies from 'js-cookie'
 import { useEffect, useState } from 'react'
+import React from 'react';
+
 
 const AuthRequired = ({ children }) => {
   const navigate = useNavigate()

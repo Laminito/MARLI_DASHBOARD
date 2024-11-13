@@ -9,6 +9,7 @@ import ModifierUnBien from './pages/ModifierUnBien/ModifierUnBien'
 import AvisUser from './pages/AvisUser/AvisUser'
 import AvisDrecherche from './pages/AvisDrecherche/AvisDrecherche'
 import Dashboard from './pages/Dashboard/Dashboard'
+import React from 'react';
 
 // middlewares de vérification
 import AuthRequired from './middlewares/AuthRequired/AuthRequired'

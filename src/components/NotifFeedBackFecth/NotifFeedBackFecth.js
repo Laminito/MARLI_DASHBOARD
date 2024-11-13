@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import styles from './NotifFeedBackFecth.module.scss'
+import React from 'react';
 
 function NotifFeedBackFecth({
   modifAuthorizeValue,

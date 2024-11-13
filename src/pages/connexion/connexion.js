@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import Cookies from 'js-cookie'
 import { Helmet } from 'react-helmet'
+import React from 'react';
 
 import styles from './connexion.module.scss'
 import NotifFeedBackFecth from '../../components/NotifFeedBackFecth/NotifFeedBackFecth'

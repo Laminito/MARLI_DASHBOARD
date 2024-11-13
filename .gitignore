@@ -5,8 +5,8 @@
 /.pnp
 .pnp.js
 .env
-/src/assets/images
-/src/assets/avatar
+#/src/assets/images
+#/src/assets/avatar
 
 # testing
 /coverage

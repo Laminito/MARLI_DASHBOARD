@@ -4,6 +4,9 @@ import Cookies from 'js-cookie'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPlus, faSearch } from '@fortawesome/free-solid-svg-icons'
 import GifLoading from '../../components/GifLoading/GifLoading'
+import React from 'react';
+
+
 // import { useNavigate } from 'react-router-dom'
 import { Link } from 'react-router-dom'
 import { Helmet } from 'react-helmet'
